@@ -1,0 +1,13 @@
+#methode de class string
+x="abc".capitalize()      
+y="_".join("*" *5)
+z="ababab".count("ab")
+t="{0}={1} * {2}+{3}".format(27,4,6,3)
+f=".".join("a" * 3)
+e=("_*" * 3) + "a"+("_*" * 3)
+print(x)
+print(y)
+print(z)
+print(t)
+print(f)
+print(e)

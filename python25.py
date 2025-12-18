@@ -1,0 +1,6 @@
+len("hello world") 
+abs(-5.2)
+pow(2,10)
+print(len("hello world"))
+print(abs(-5.2))
+print(pow(2,10))
